@@ -1,0 +1,22 @@
+{
+  "name": "angu-books",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.1",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "lucide-react": "^0.454.0",
+    "next": "15.0.3",
+    "razorpay": "^2.9.2",
+    "react": "^19.0.0",
+    "react-dom": "19.0.0",
+    "tailwind-merge": "^2.5.4"
+  }
+}
